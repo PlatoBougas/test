@@ -31,7 +31,7 @@
 </nav>
 <div class="content">
 <div class="inner">
-<h1>JonLuca De Caro</h1>
+<h1>PLATO BOUGAS</h1>
 <p>Developer, Project Manager, and Security Researcher</p>
 </div>
 </div>
